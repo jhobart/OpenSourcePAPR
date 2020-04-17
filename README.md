@@ -1,5 +1,5 @@
 # OpenSourcePAPR
-A powered, air purifying respirator.
+An open-source, powered, air purifying respirator.
 
 ![PAPR](papr.jpg)
 
