@@ -1,9 +1,6 @@
 # OpenSourcePAPR
 An open-source, powered, air purifying respirator.
 
-![PAPR](papr.jpg)
-
-
 ## Overview
 The device is intended to be connected to a wide variety of off-the-shelf reusable or disposable PAPR hoods from existing systems. Filtered air is fed into the hood through a 3D printed, belt-mounted assembly. 
 
